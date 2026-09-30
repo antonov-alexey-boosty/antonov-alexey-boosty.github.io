@@ -12,7 +12,4 @@
 - `sitemap.xml`
 - `favicon.svg`
 
-## Публикация
-Загрузите все файлы в корень репозитория и включите GitHub Pages: Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
 
-После публикации добавьте сайт в Яндекс Вебмастер и укажите `sitemap.xml`.
